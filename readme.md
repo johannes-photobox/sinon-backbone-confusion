@@ -5,3 +5,4 @@ $ npm install
 $ mocha
 ```
 
+also see https://github.com/photobox/studio/pull/369/files
